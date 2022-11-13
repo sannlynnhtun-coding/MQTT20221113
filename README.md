@@ -2,7 +2,7 @@
 
 [MQTT](https://mqtt.org/)
 
-[What is MQTT? What you need to know](https://www.youtube.com/watch?v=QSwR-JMmNOo)
+[What is MQTT? What you need to know Click here ☝️](https://www.youtube.com/watch?v=QSwR-JMmNOo)
 
 MQTTnet is a high performance . NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker) and supports the MQTT protocol up to version 5. It is compatible with mostly any supported . NET Framework version and CPU architecture.
 
