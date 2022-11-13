@@ -7,8 +7,9 @@ Console.WriteLine("Hello, World!");
 var mqttFactory = new MqttFactory();
 var client = mqttFactory.CreateMqttClient();
 var options = new MqttClientOptionsBuilder()
-    //.WithClientId(Guid.NewGuid().ToString())
-    .WithTcpServer("localhost", 1883)
+    .WithClientId(Guid.NewGuid().ToString())
+    //.WithClientId("MQTT-Server")
+    .WithTcpServer("test.mosquitto.org", 1883)
     .WithCleanSession()
     .Build();
 await client.ConnectAsync(options);
