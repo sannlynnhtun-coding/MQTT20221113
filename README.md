@@ -2,6 +2,10 @@
 
 [MQTT](https://mqtt.org/)
 
+https://www.youtube.com/watch?v=QSwR-JMmNOo
+
+MQTTnet is a high performance . NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker) and supports the MQTT protocol up to version 5. It is compatible with mostly any supported . NET Framework version and CPU architecture.
+
 Download 
 - https://mosquitto.org/download/
 - https://mosquitto.org/files/binary/win64/mosquitto-2.0.15-install-windows-x64.exe
