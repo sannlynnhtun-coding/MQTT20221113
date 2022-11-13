@@ -2,7 +2,9 @@
 
 [MQTT](https://mqtt.org/)
 
-Reference ➡️ https://github.com/dotnet/MQTTnet
+Reference 
+➡️ https://github.com/dotnet/MQTTnet
+➡️ https://blog.behroozbc.ir/mqtt-client-with-mqttnet-4-and-c
 
 ⬇️⬇️⬇️ Watch the video on youtube ⬇️⬇️⬇️
 
