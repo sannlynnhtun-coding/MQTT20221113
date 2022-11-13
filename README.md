@@ -6,6 +6,7 @@ Reference
 - ➡️ https://github.com/dotnet/MQTTnet
 - ➡️ https://blog.behroozbc.ir/mqtt-client-with-mqttnet-4-and-c
 - ➡️ https://github.com/dotnet/MQTTnet/wiki/Client
+- ➡️ https://www.hivemq.com/blog/mqtt-vs-http-protocols-in-iot-iiot/
 
 ⬇️⬇️⬇️ Watch the video on youtube ⬇️⬇️⬇️
 
