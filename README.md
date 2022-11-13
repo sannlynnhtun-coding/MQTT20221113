@@ -2,11 +2,16 @@
 
 [MQTT](https://mqtt.org/)
 
+Download 
+- https://mosquitto.org/download/
+- https://mosquitto.org/files/binary/win64/mosquitto-2.0.15-install-windows-x64.exe
+
 Reference 
 - ➡️ https://github.com/dotnet/MQTTnet
 - ➡️ https://blog.behroozbc.ir/mqtt-client-with-mqttnet-4-and-c
 - ➡️ https://github.com/dotnet/MQTTnet/wiki/Client
 - ➡️ https://www.hivemq.com/blog/mqtt-vs-http-protocols-in-iot-iiot/
+- ➡️ https://github.com/dotnet/MQTTnet/blob/master/Samples/Client/Client_Subscribe_Samples.cs
 
 ⬇️⬇️⬇️ Watch the video on youtube ⬇️⬇️⬇️
 
